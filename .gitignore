@@ -1,0 +1,6 @@
+__pycache__
+venv
+dist
+nebnr.egg-info
+setup.py
+*.pyc
